@@ -1,0 +1,13 @@
+*{
+    font-family: 'Chivo Mono', monospace;
+}
+div{
+    
+    display:flex;
+    
+}
+.red{
+   
+    border:2px solid;
+    border-radius:8px;
+}
